@@ -1,0 +1,7 @@
+== Awesome Store
+
+This app allows you to view, add, edit, and delete products from a store webpage. It is based on RailsCast #417 Foundation, where the Foundation framework is applied to a basic Rails app.
+
+Version Numbers:
+Rails 4.0.2
+Foundation 5, which is different than the video where Foundation 4 was used
